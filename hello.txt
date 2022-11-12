@@ -11,5 +11,5 @@ hello wjj! hello git!
 hello wjj! hello git!
 hello wjj! hello git!
 hello wjj! hello git!
-hello wjj! hello git!
+hello wjj! hello git! hot-fix test
 hello wjj! hello git!
